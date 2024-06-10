@@ -28,4 +28,4 @@ I addressed several business questions to identify focus areas, determine releva
 - PgAdmin4
 - Excel
 - PowerPoint
-- [Drawio](https://app.diagrams.net/#G1_Sc5YD37dYHKd5hQ6glKn2RqZ8nqK2EP#%7B%22pageId%22%3A%22KgcBLSlTvzFUVU9-manX%22%7D)
+- [Drawio](https://app.diagrams.net/)
