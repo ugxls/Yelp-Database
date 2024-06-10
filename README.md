@@ -18,6 +18,7 @@ This project is part of my Data Management course from the first semester of my 
 I addressed several business questions to identify focus areas, determine relevant data, and provide insights and metrics essential for informed business decisions. I achieved this by writing efficient, readable SQL queries and then presenting my findings to communicate the results effectively.
 
 ### Project Files
+
 - [Files](https://drive.google.com/drive/folders/1pyIo8aK5nRq4XZor8-iJLyiFqQWq0MC6?usp=sharing): The files loaded into the tables in the database
 - [Data Dictionary](https://clarkuedu-my.sharepoint.com/:x:/g/personal/uazubuine_clarku_edu/ETiJRkLSxQRCjN2dOMkfAlcBnDCkPwQ7-uc8ibvH97Z5Hw?e=advCTM)
 - [Business Presentation](https://clarkuedu-my.sharepoint.com/:p:/g/personal/uazubuine_clarku_edu/EfrqaxDx8GBOlaxon40o14UBaKkFOvdcO1xMNJ0qbQdXug?e=iUhfmv)
