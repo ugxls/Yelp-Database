@@ -1,8 +1,8 @@
 # Yelp Database
 
 ### Table of Contents 
-- Project Overview
-- Project Structure
+- [Project Overview](#project-overview)
+- [Project Structure](#project-structure)
 - Tools
 - Limitations
 - Contributions
