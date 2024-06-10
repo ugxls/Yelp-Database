@@ -3,10 +3,9 @@
 ### Table of Contents 
 - [Project Overview](#project-overview)
 - [Project Files](#project-files)
-- Tools
-- Limitations
-- Contributions
-- 
+- [Tools](#tools)
+- [Limitations](#limitations)
+- [Contributions](#contributions)
 
 ### Project Overview 
 ---
@@ -29,3 +28,11 @@ I addressed several business questions to identify focus areas, determine releva
 - Microsoft Excel
 - Microsoft PowerPoint
 - [Drawio](https://app.diagrams.net/)
+
+## Limitations 
+I encountered challenges with file encoding while loading data, as some files had different encodings than the default 'UTF8' encoding of pgAdmin4. To resolve this, I converted the files to the correct encoding by specifying the encoding parameter during the data import process.
+
+## Contributions 
+Ugochukwu (Ug) Azubuine
+
+Dr. Jason Augustyn 
