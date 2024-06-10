@@ -26,6 +26,6 @@ I addressed several business questions to identify focus areas, determine releva
 ## Tools 
 - PostgreSQL
 - PgAdmin4
-- Excel
-- PowerPoint
+- Microsoft Excel
+- Microsoft PowerPoint
 - [Drawio](https://app.diagrams.net/)
