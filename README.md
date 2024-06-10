@@ -20,5 +20,5 @@ I addressed several business questions to identify focus areas, determine releva
 
 ### Project Structure 
 - [Files](https://drive.google.com/drive/folders/1pyIo8aK5nRq4XZor8-iJLyiFqQWq0MC6?usp=sharing): The files loaded into the tables in the database
-- [Data Dictionary]()
+- [Data Dictionary](https://clarkuedu-my.sharepoint.com/:x:/g/personal/uazubuine_clarku_edu/ETiJRkLSxQRCjN2dOMkfAlcBnDCkPwQ7-uc8ibvH97Z5Hw?e=advCTM)
 
