@@ -9,7 +9,7 @@
 
 ### Project Overview 
 ---
-This project is part of my Data Management course from the first semester of my Master's program in Data Analytics at Clark University. It involves designing a database that simulates Yelp's platform, which provides user reviews and ratings for local businesses and services. The project includes:
+This project is part of my Data Management in Information Technology course from the first semester of my Master's program in Data Analytics at Clark University. It involves designing a database that simulates Yelp's platform, which provides user reviews and ratings for local businesses and services. The project includes:
 
 - Database and Table Creation: Developed tables to represent key entities in the Yelp database.
 - Data Dictionary: Compiled a detailed description of all tables, including attribute names and characteristics.
