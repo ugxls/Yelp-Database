@@ -1,5 +1,8 @@
 # Yelp Database
 
+![yelp logo](https://github.com/user-attachments/assets/d2f31534-245b-4c4f-aba2-5b16256ba6d9)
+
+
 ### Table of Contents 
 - [Project Overview](#project-overview)
 - [Project Files](#project-files)
