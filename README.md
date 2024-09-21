@@ -36,6 +36,6 @@ I addressed several business questions to identify focus areas, determine releva
 I encountered challenges with file encoding while loading data, as some files had different encodings than the default 'UTF8' encoding of pgAdmin4. To resolve this, I converted the files to the correct encoding by specifying the encoding parameter during the data import process.
 
 ## Contributions 
-Ugochukwu (Ug) Azubuine
+Ugochukwu (UG) Azubuine
 
 Dr. Jason Augustyn 
