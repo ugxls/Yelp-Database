@@ -1,4 +1,4 @@
-# Yelp-like Database
+# Yelp Database Simulation
 
 ![yelp logo](https://github.com/user-attachments/assets/d2f31534-245b-4c4f-aba2-5b16256ba6d9)
 
